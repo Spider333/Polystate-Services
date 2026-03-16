@@ -26,7 +26,6 @@ jobs:
             --accept 200,204,206,301,302,307,308,403
             --timeout 30
             --max-retries 3
-
             --exclude 'tornadocash.eth.link'
             --exclude 'localhost'
             --exclude '127.0.0.1'
@@ -36,12 +35,12 @@ jobs:
       - name: Read lychee output
         id: results
         run: |
+          BROKEN=0
           if [ -f ./lychee/out.md ]; then
-            BROKEN=$(grep -c '\[ERR\]\|❌\|✗' ./lychee/out.md 2>/dev/null || echo "0")
-            echo "broken_count=$BROKEN" >> $GITHUB_OUTPUT
-          else
-            echo "broken_count=0" >> $GITHUB_OUTPUT
+            BROKEN=$(grep -c '\[ERR\]\|❌\|✗' ./lychee/out.md 2>/dev/null || true)
+            [ -z "$BROKEN" ] && BROKEN=0
           fi
+          echo "broken_count=$BROKEN" >> $GITHUB_OUTPUT
 
       - name: Create issue for broken links
         if: steps.results.outputs.broken_count != '0'
