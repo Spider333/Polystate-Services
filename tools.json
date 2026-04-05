@@ -3,8 +3,8 @@
     "name": "Polystate Services — Crypto Nomad Tools",
     "description": "Community-maintained directory of crypto and fintech tools for digital nomads",
     "url": "https://github.com/Spider333/Polystate-Services",
-    "last_updated": "2026-03-09",
-    "total_tools": 97,
+    "last_updated": "2026-04-05",
+    "total_tools": 98,
     "license": "CC-BY-SA-4.0"
   },
   "categories": [
@@ -178,7 +178,8 @@
         { "id": 86, "name": "Threema", "description": "Swiss encrypted messenger that works without a phone number", "url": "https://threema.ch", "pick": false, "on_polystate": false },
         { "id": 87, "name": "Mobimatter", "description": "eSIM marketplace offering prepaid data plans with minimal identity needs", "url": "https://www.mobimatter.com", "pick": false, "on_polystate": false },
         { "id": 88, "name": "Mullvad VPN", "description": "No-logs VPN accepting BTC, XMR, Lightning, and cash. No personal info required", "url": "https://mullvad.net", "pick": true, "on_polystate": false },
-        { "id": 89, "name": "Silent Link", "description": "Zero-KYC eSIM provider, pay via Bitcoin/Lightning, anonymous mobile data in 100+ countries", "url": "https://silent.link", "pick": true, "on_polystate": false }
+        { "id": 89, "name": "Silent Link", "description": "Zero-KYC eSIM provider, pay via Bitcoin/Lightning, anonymous mobile data in 100+ countries", "url": "https://silent.link", "pick": true, "on_polystate": false },
+        { "id": 98, "name": "NadaNada", "description": "No-log VPN, anonymous eSIM, and disposable phone numbers — all crypto-paid, no account required", "url": "https://nadanada.me/?ref=polystate", "pick": false, "on_polystate": true }
       ]
     },
     {
