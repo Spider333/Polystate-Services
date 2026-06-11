@@ -3,8 +3,8 @@
     "name": "Polystate Services — Crypto Nomad Tools",
     "description": "Community-maintained directory of crypto and fintech tools for digital nomads",
     "url": "https://github.com/Spider333/Polystate-Services",
-    "last_updated": "2026-04-05",
-    "total_tools": 98,
+    "last_updated": "2026-06-11",
+    "total_tools": 99,
     "license": "CC-BY-SA-4.0"
   },
   "categories": [
@@ -45,7 +45,8 @@
         { "id": 25, "name": "Peer (formerly ZKP2P)", "description": "Zero-knowledge proof based peer-to-peer crypto on/off ramp", "url": "https://peer.xyz", "pick": false, "on_polystate": false },
         { "id": 26, "name": "Peach Bitcoin", "description": "Mobile P2P Bitcoin trading app, no KYC, cash trades supported", "url": "https://peachbitcoin.com", "pick": false, "on_polystate": false },
         { "id": 27, "name": "RoboSats", "description": "Tor-exclusive Lightning-based P2P exchange, sub-5 minute trades", "url": "https://robosats.com", "pick": false, "on_polystate": false },
-        { "id": 28, "name": "Hodl Hodl", "description": "Non-custodial P2P Bitcoin exchange with escrow, no KYC", "url": "https://hodlhodl.com", "pick": false, "on_polystate": false }
+        { "id": 28, "name": "Hodl Hodl", "description": "Non-custodial P2P Bitcoin exchange with escrow, no KYC", "url": "https://hodlhodl.com", "pick": false, "on_polystate": false },
+        { "id": 99, "name": "rhino.fi", "description": "Self-custodial cross-chain bridge and swap across 35+ chains incl. Solana, Tron, and TON — no signup, near-instant settlement", "url": "https://app.rhino.fi/bridge", "pick": true, "on_polystate": false }
       ]
     },
     {

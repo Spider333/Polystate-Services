@@ -2,7 +2,7 @@
 
 > **[polystate.io](https://polystate.io)** — The Operating System for Sovereign Individuals
 
-[![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md) [![Last Updated](https://img.shields.io/badge/Last%20Updated-March%202026-blue.svg)](#)
+[![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md) [![Last Updated](https://img.shields.io/badge/Last%20Updated-June%202026-blue.svg)](#)
 
 **Affiliate Disclosure:** Many links below are affiliate/referral links (marked with ↗). When you sign up through them, you support the platform at no extra cost to you — and in some cases you get a bonus too. If you find this list useful, using the referral links is the easiest way to say thanks.
 
@@ -192,7 +192,7 @@ The platform covers key jurisdictions like Paraguay, Panama, Georgia, Prospera (
 
 <a id="2-exchanges--swap-platforms"></a>
 <details>
-<summary><strong>2. Exchanges & Swap Platforms</strong> (19 tools)</summary>
+<summary><strong>2. Exchanges & Swap Platforms</strong> (20 tools)</summary>
 
 | # | Tool | Description | Link | Polystate |
 |---|------|-------------|------|-----------|
@@ -215,6 +215,9 @@ The platform covers key jurisdictions like Paraguay, Panama, Georgia, Prospera (
 | 26 | Peach Bitcoin | Mobile P2P Bitcoin trading app, no KYC, cash trades supported | [peachbitcoin.com](https://peachbitcoin.com) | 🆕 |
 | 27 | RoboSats | Tor-exclusive Lightning-based P2P exchange, sub-5 minute trades | [robosats.com](https://robosats.com) | 🆕 |
 | 28 | Hodl Hodl | Non-custodial P2P Bitcoin exchange with escrow, no KYC | [hodlhodl.com](https://hodlhodl.com) | 🆕 |
+| 99 | ⭐ rhino.fi | Self-custodial cross-chain bridge and swap across 35+ chains incl. Solana, Tron, and TON — no signup, near-instant settlement | [app.rhino.fi](https://app.rhino.fi/bridge) | 🆕 |
+
+> **Why rhino.fi?** One of the smoothest cross-chain swap experiences out there: connect a wallet and move assets between 35+ chains (EVM, Solana, Tron, TON, and more) in seconds — no account, no KYC, no seed-phrase risk handed to a custodian. Self-custody is enforced at the smart-contract level (nothing moves without your signature), and its pre-funded liquidity network means you skip the slow lock-and-mint bridging most competitors use. Battle-tested team — formerly DeversiFi, building since 2020.
 
 </details>
 
