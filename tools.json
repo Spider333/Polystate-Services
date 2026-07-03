@@ -3,8 +3,8 @@
     "name": "Polystate Services — Crypto Nomad Tools",
     "description": "Community-maintained directory of crypto and fintech tools for digital nomads",
     "url": "https://github.com/Spider333/Polystate-Services",
-    "last_updated": "2026-06-11",
-    "total_tools": 99,
+    "last_updated": "2026-07-03",
+    "total_tools": 100,
     "license": "CC-BY-SA-4.0"
   },
   "categories": [
@@ -155,7 +155,8 @@
         { "id": 74, "name": "Wirex Travel", "description": "Multi-currency card and app for crypto-funded travel spending", "url": "https://www.wirex.com", "pick": false, "on_polystate": false },
         { "id": 75, "name": "XcelTrip", "description": "Decentralized travel platform booking hotels and flights with crypto", "url": "https://www.xceltrip.com", "pick": false, "on_polystate": false },
         { "id": 76, "name": "ShopinBit", "description": "European online shop accepting Bitcoin and crypto for everyday products", "url": "https://www.shopinbit.com", "pick": false, "on_polystate": false },
-        { "id": 77, "name": "BitRefill", "description": "Buy gift cards, eSIMs, and phone top-ups with cryptocurrency", "url": "https://www.bitrefill.com", "pick": true, "on_polystate": false }
+        { "id": 77, "name": "BitRefill", "description": "Buy gift cards, eSIMs, and phone top-ups with cryptocurrency", "url": "https://www.bitrefill.com", "pick": true, "on_polystate": false },
+        { "id": 100, "name": "ShopinBit Privacy Shield", "description": "Flight booking with no email or phone number — ShopinBit uses proxy contact details with the airline and forwards confirmations in-app (kept up to 30 days post-trip). Name and DOB still required for the ticket. Paid in crypto, 10% service fee", "url": "https://shopinbit.com", "pick": true, "on_polystate": false }
       ]
     },
     {

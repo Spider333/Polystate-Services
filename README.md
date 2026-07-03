@@ -358,7 +358,7 @@ The platform covers key jurisdictions like Paraguay, Panama, Georgia, Prospera (
 
 <a id="12-travel--commerce"></a>
 <details>
-<summary><strong>12. Travel & Commerce</strong> (6 tools)</summary>
+<summary><strong>12. Travel & Commerce</strong> (7 tools)</summary>
 
 | # | Tool | Description | Link | Polystate |
 |---|------|-------------|------|-----------|
@@ -368,6 +368,7 @@ The platform covers key jurisdictions like Paraguay, Panama, Georgia, Prospera (
 | 75 | XcelTrip | Decentralized travel platform booking hotels and flights with crypto | [xceltrip.com](https://www.xceltrip.com) | 🆕 |
 | 76 | ShopinBit | European online shop accepting Bitcoin and crypto for everyday products | [shopinbit.com](https://www.shopinbit.com) | 🆕 |
 | 77 | ⭐ BitRefill | Buy gift cards, eSIMs, and phone top-ups with cryptocurrency | [bitrefill.com](https://www.bitrefill.com) | 🆕 |
+| 100 | ⭐ ShopinBit Privacy Shield | Book flights with no email or phone number — proxy contact details, confirmations in-app, paid in crypto (10% fee) | [shopinbit.com](https://shopinbit.com) | 🆕 |
 
 </details>
 
