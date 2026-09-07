@@ -3,7 +3,7 @@
     "name": "Polystate Services — Crypto Nomad Tools",
     "description": "Community-maintained directory of crypto and fintech tools for digital nomads",
     "url": "https://github.com/Spider333/Polystate-Services",
-    "last_updated": "2026-07-03",
+    "last_updated": "2026-09-07",
     "total_tools": 100,
     "license": "CC-BY-SA-4.0"
   },
@@ -41,7 +41,7 @@
         { "id": 21, "name": "Cryptal.com", "description": "Georgian licensed crypto exchange offering trading and payments", "url": "https://cryptal.com", "pick": false, "on_polystate": false },
         { "id": 22, "name": "Kraken", "description": "Major regulated cryptocurrency exchange with advanced trading and staking", "url": "https://kraken.com", "pick": true, "on_polystate": true, "affiliate_url": "https://invite.kraken.com/JDNW/i3xy94c5" },
         { "id": 23, "name": "Atomic Exchange", "description": "Decentralized exchange for trustless BTC and SOL atomic swaps", "url": "https://atomiq.exchange", "pick": false, "on_polystate": true, "affiliate_url": "https://app.atomiq.exchange/?affiliate=HkGW97WaqA6RNyybjwA28e" },
-        { "id": 24, "name": "Conceal", "description": "Privacy-first anonymous multichain swap service with no KYC", "url": "https://conceal.exchange", "pick": false, "on_polystate": false },
+        { "id": 24, "name": "Conceal", "description": "Privacy-first anonymous multichain swap service with no KYC", "url": "https://conceal.exchange", "pick": false, "on_polystate": false, "defunct": true },
         { "id": 25, "name": "Peer (formerly ZKP2P)", "description": "Zero-knowledge proof based peer-to-peer crypto on/off ramp", "url": "https://peer.xyz", "pick": false, "on_polystate": false },
         { "id": 26, "name": "Peach Bitcoin", "description": "Mobile P2P Bitcoin trading app, no KYC, cash trades supported", "url": "https://peachbitcoin.com", "pick": false, "on_polystate": false },
         { "id": 27, "name": "RoboSats", "description": "Tor-exclusive Lightning-based P2P exchange, sub-5 minute trades", "url": "https://robosats.com", "pick": false, "on_polystate": false },
@@ -55,7 +55,7 @@
       "tools": [
         { "id": 29, "name": "XAPO Bank", "description": "Gibraltar-licensed bank combining BTC + USD with USD yield", "url": "https://xapobank.com", "pick": true, "on_polystate": true, "affiliate_url": "https://application.xapo.com/membership-application?ref=SUF-QAV-FC" },
         { "id": 30, "name": "Ether.fi", "description": "DeFi neobank with Visa card, up to 3% cashback in wETH, spend against staked ETH", "url": "https://ether.fi", "pick": false, "on_polystate": true, "affiliate_url": "https://app.ether.fi/weeth?address=0xB7f6227F09CF8Bd2C8897c71d3b980F42ac95544" },
-        { "id": 31, "name": "Gnosis Pay", "description": "Self-custodial Visa card spending stablecoins directly from Gnosis Safe", "url": "https://gnosispay.com", "pick": true, "on_polystate": true, "affiliate_url": "https://gnosispay.com/nonoginvite?rcc=ea874c418ccb&utm_source=referral&utm_campaign=clkbcnsvt000cmk08ekn8tkz6" },
+        { "id": 31, "name": "Gnosis Pay", "description": "Self-custodial Visa card spending stablecoins directly from Gnosis Safe", "url": "https://gnosispay.com", "pick": true, "on_polystate": true },
         { "id": 32, "name": "Redotpay", "description": "Crypto Visa card supporting 130M+ merchants, 6M+ users globally", "url": "https://www.redotpay.com", "pick": false, "on_polystate": false },
         { "id": 33, "name": "Cypher HQ", "description": "Y Combinator-backed zero-fee crypto card supporting 772 cryptocurrencies", "url": "https://cypherhq.io", "pick": false, "on_polystate": false },
         { "id": 34, "name": "Crypto.com", "description": "Exchange + Visa card with tiered cashback based on CRO staking", "url": "https://crypto.com", "pick": false, "on_polystate": false },
@@ -71,7 +71,7 @@
       "name": "SEPA & Fiat Bridge Services",
       "tools": [
         { "id": 40, "name": "Jeton.com", "description": "Crypto-to-SEPA service with best rates, 2000 EUR/month limit", "url": "https://www.jeton.com", "pick": false, "on_polystate": false },
-        { "id": 41, "name": "Uglycash", "description": "SEPA-friendly crypto off-ramp service", "url": "https://uglycash.com", "pick": false, "on_polystate": false },
+        { "id": 41, "name": "Uglycash", "description": "SEPA-friendly crypto off-ramp service", "url": "https://uglycash.com", "pick": false, "on_polystate": false, "defunct": true },
         { "id": 42, "name": "Bringin.xyz", "description": "Pay SEPA bills via Bitcoin Lightning, 15 EUR minimum", "url": "https://bringin.xyz", "pick": false, "on_polystate": false },
         { "id": 43, "name": "Strike", "description": "Lightning payments app, accepts LN deposits, easy fiat bridge", "url": "https://strike.me", "pick": false, "on_polystate": false }
       ]
@@ -90,7 +90,7 @@
       "name": "Non-CRS Bank Accounts (Privacy Banking)",
       "tools": [
         { "id": 47, "name": "Bakai.kg", "description": "Commercial bank with VISA Infinite card available", "url": "https://www.bakai.kg", "country": "Kyrgyzstan", "pick": false, "on_polystate": false },
-        { "id": 48, "name": "ABank (formerly Aiyl Bank)", "description": "Bank focused on agricultural and rural microfinance, renamed 2026", "url": "https://www.aiylbank.kg", "country": "Kyrgyzstan", "pick": false, "on_polystate": false },
+        { "id": 48, "name": "ABank (formerly Aiyl Bank)", "description": "Bank focused on agricultural and rural microfinance, renamed 2026", "url": "https://abank.kg", "country": "Kyrgyzstan", "pick": false, "on_polystate": false },
         { "id": 49, "name": "Cambodian banks", "description": "Remote opening available, non-CRS jurisdiction", "url": null, "country": "Cambodia", "pick": false, "on_polystate": false },
         { "id": 50, "name": "Familiar / ITAU / UENO", "description": "Local banks requiring cedula residency", "url": null, "country": "Paraguay", "pick": false, "on_polystate": false }
       ]
@@ -108,7 +108,7 @@
       "tools": [
         { "id": 52, "name": "AAVE", "description": "Non-custodial liquidity protocol for lending and borrowing crypto", "url": "https://aave.com", "pick": true, "on_polystate": false, "affiliate_url": "https://aave.com/r/81071D" },
         { "id": 53, "name": "Liquity", "description": "Governance-free borrowing protocol issuing LUSD against ETH collateral. V2 redeployed May 2025 after vulnerability fix", "url": "https://www.liquity.org", "pick": false, "on_polystate": false },
-        { "id": 54, "name": "Lazy Summer (formerly Summer.fi)", "description": "DeFi yield optimization protocol. Former borrow/multiply product migrated to DeFi Saver", "url": "https://lazysummer.xyz", "pick": false, "on_polystate": false },
+        { "id": 54, "name": "Lazy Summer (formerly Summer.fi)", "description": "DeFi yield optimization protocol. Former borrow/multiply product migrated to DeFi Saver", "url": "https://summer.fi", "pick": false, "on_polystate": false },
         { "id": 55, "name": "DefiLlama", "description": "Open-source DeFi analytics dashboard tracking TVL across all chains", "url": "https://defillama.com", "pick": true, "on_polystate": false },
         { "id": 56, "name": "Firefish.io", "description": "Bitcoin-collateralized loans connecting borrowers with global lenders (30% off)", "url": "https://firefish.io", "pick": true, "on_polystate": true, "affiliate_url": "https://firefish.io?ref=POLYSTATE" },
         { "id": 57, "name": "Nexo", "description": "CeFi platform offering crypto-backed loans, earning, and exchange. Re-entered US market Feb 2026", "url": "https://nexo.com", "pick": false, "on_polystate": false },
@@ -152,8 +152,8 @@
       "tools": [
         { "id": 72, "name": "Travala.com", "description": "Book hotels, flights, and activities paying with 100+ cryptos", "url": "https://www.travala.com", "pick": true, "on_polystate": false },
         { "id": 73, "name": "Destinia", "description": "Spanish travel agency accepting Bitcoin for flights and hotels", "url": "https://www.destinia.com", "pick": false, "on_polystate": false },
-        { "id": 74, "name": "Wirex Travel", "description": "Multi-currency card and app for crypto-funded travel spending", "url": "https://www.wirex.com", "pick": false, "on_polystate": false },
-        { "id": 75, "name": "XcelTrip", "description": "Decentralized travel platform booking hotels and flights with crypto", "url": "https://www.xceltrip.com", "pick": false, "on_polystate": false },
+        { "id": 74, "name": "Wirex Travel", "description": "Multi-currency card and app for crypto-funded travel spending", "url": "https://www.wirex.com", "pick": false, "on_polystate": false, "defunct": true },
+        { "id": 75, "name": "XcelTrip", "description": "Decentralized travel platform booking hotels and flights with crypto", "url": "https://www.xceltrip.com", "pick": false, "on_polystate": false, "defunct": true },
         { "id": 76, "name": "ShopinBit", "description": "European online shop accepting Bitcoin and crypto for everyday products", "url": "https://www.shopinbit.com", "pick": false, "on_polystate": false },
         { "id": 77, "name": "BitRefill", "description": "Buy gift cards, eSIMs, and phone top-ups with cryptocurrency", "url": "https://www.bitrefill.com", "pick": true, "on_polystate": false },
         { "id": 100, "name": "ShopinBit Privacy Shield", "description": "Flight booking with no email or phone number — ShopinBit uses proxy contact details with the airline and forwards confirmations in-app (kept up to 30 days post-trip). Name and DOB still required for the ticket. Paid in crypto, 10% service fee", "url": "https://shopinbit.com", "pick": true, "on_polystate": false }

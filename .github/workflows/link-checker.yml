@@ -16,6 +16,9 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
+      # binance.com and trocador.app are bot-protected: they answer 202/503
+      # to CI runners but load fine in a browser, so they are excluded
+      # rather than reported as broken every week.
       - name: Link Checker
         id: lychee
         uses: lycheeverse/lychee-action@v2
@@ -23,10 +26,12 @@ jobs:
           args: >
             --verbose
             --no-progress
-            --accept 200,204,206,301,302,307,308,403
+            --accept 200,202,204,206,301,302,307,308,403,503
             --timeout 30
             --max-retries 3
             --exclude 'tornadocash.eth.link'
+            --exclude 'binance.com'
+            --exclude 'trocador.app'
             --exclude 'localhost'
             --exclude '127.0.0.1'
             README.md

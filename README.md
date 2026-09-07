@@ -90,7 +90,7 @@ The platform covers key jurisdictions like Paraguay, Panama, Georgia, Prospera (
 
 | Service | Description | Link |
 |---------|-------------|------|
-| Gnosis Pay | Self-custodial Visa card spending stablecoins directly from Gnosis Safe | [gnosispay.com ↗](https://gnosispay.com/nonoginvite?rcc=ea874c418ccb&utm_source=referral&utm_campaign=clkbcnsvt000cmk08ekn8tkz6) |
+| Gnosis Pay | Self-custodial Visa card spending stablecoins directly from Gnosis Safe | [gnosispay.com](https://gnosispay.com) |
 | EtherFi | DeFi neobank with Visa card, up to 3% cashback in wETH, spend against staked ETH | [ether.fi ↗](https://app.ether.fi/weeth?address=0xB7f6227F09CF8Bd2C8897c71d3b980F42ac95544) |
 
 ### Crypto Platforms
@@ -136,9 +136,9 @@ The platform covers key jurisdictions like Paraguay, Panama, Georgia, Prospera (
 | Service | Description | Link |
 |---------|-------------|------|
 | SafetyWing | Nomad health insurance with global coverage, monthly billing | [safetywing.com ↗](https://safetywing.com/nomad-insurance/?referenceID=26471883&utm_source=26471883&utm_medium=Ambassador) |
-| Cigna Global | International health insurance for expats and global citizens | [cigna.com ↗](https://cigna.mention-me.com/m/ol/pw3du-david-stancel) |
+| Cigna Global | International health insurance for expats and global citizens | [cigna.com](https://www.cignaglobal.com) |
 | William Russell | Premium expat insurance with worldwide coverage | [william-russell.com](https://www.william-russell.com) |
-| Genki | Digital nomad insurance designed for location-independent workers | [genki.world](https://genkihealth.co) |
+| Genki | Digital nomad insurance designed for location-independent workers | [genki.world](https://genki.world) |
 
 ### Privacy & Security
 
@@ -167,6 +167,7 @@ The platform covers key jurisdictions like Paraguay, Panama, Georgia, Prospera (
 - 🆕 = Not yet on Polystate
 - ↗ = Affiliate/referral link — supports Polystate at no cost to you
 - ⭐ = **Editor's Pick** — personally tested and recommended
+- 💀 = Service appears defunct — domain no longer resolves (kept for reference, pending removal)
 
 *Last verified: March 2026*
 
@@ -210,7 +211,7 @@ The platform covers key jurisdictions like Paraguay, Panama, Georgia, Prospera (
 | 21 | Cryptal.com | Georgian licensed crypto exchange offering trading and payments | [cryptal.com](https://cryptal.com) | 🆕 |
 | 22 | ⭐ Kraken | Major regulated cryptocurrency exchange with advanced trading and staking | [kraken.com ↗](https://invite.kraken.com/JDNW/i3xy94c5) | ✅ |
 | 23 | Atomic Exchange | Decentralized exchange for trustless BTC and SOL atomic swaps | [atomiq.exchange ↗](https://app.atomiq.exchange/?affiliate=HkGW97WaqA6RNyybjwA28e) | ✅ |
-| 24 | Conceal | Privacy-first anonymous multichain swap service with no KYC | [conceal.exchange](https://conceal.exchange) | 🆕 |
+| 24 | Conceal | Privacy-first anonymous multichain swap service with no KYC | conceal.exchange | 💀 |
 | 25 | Peer (formerly ZKP2P) | Zero-knowledge proof based peer-to-peer crypto on/off ramp | [peer.xyz](https://peer.xyz) | 🆕 |
 | 26 | Peach Bitcoin | Mobile P2P Bitcoin trading app, no KYC, cash trades supported | [peachbitcoin.com](https://peachbitcoin.com) | 🆕 |
 | 27 | RoboSats | Tor-exclusive Lightning-based P2P exchange, sub-5 minute trades | [robosats.com](https://robosats.com) | 🆕 |
@@ -229,7 +230,7 @@ The platform covers key jurisdictions like Paraguay, Panama, Georgia, Prospera (
 |---|------|-------------|------|-----------|
 | 29 | ⭐ XAPO Bank | Gibraltar-licensed bank combining BTC + USD with USD yield | [xapobank.com ↗](https://application.xapo.com/membership-application?ref=SUF-QAV-FC) | ✅ |
 | 30 | Ether.fi | DeFi neobank with Visa card, up to 3% cashback in wETH, spend against staked ETH | [ether.fi ↗](https://app.ether.fi/weeth?address=0xB7f6227F09CF8Bd2C8897c71d3b980F42ac95544) | ✅ |
-| 31 | ⭐ Gnosis Pay | Self-custodial Visa card spending stablecoins directly from Gnosis Safe | [gnosispay.com ↗](https://gnosispay.com/nonoginvite?rcc=ea874c418ccb&utm_source=referral&utm_campaign=clkbcnsvt000cmk08ekn8tkz6) | ✅ |
+| 31 | ⭐ Gnosis Pay | Self-custodial Visa card spending stablecoins directly from Gnosis Safe | [gnosispay.com](https://gnosispay.com) | ✅ |
 | 32 | Redotpay | Crypto Visa card supporting 130M+ merchants, 6M+ users globally | [redotpay.com](https://www.redotpay.com) | 🆕 |
 | 33 | Cypher HQ | Y Combinator-backed zero-fee crypto card supporting 772 cryptocurrencies | [cypherhq.io](https://cypherhq.io) | 🆕 |
 | 34 | Crypto.com | Exchange + Visa card with tiered cashback based on CRO staking | [crypto.com](https://crypto.com) | 🆕 |
@@ -248,7 +249,7 @@ The platform covers key jurisdictions like Paraguay, Panama, Georgia, Prospera (
 | # | Tool | Description | Link | Polystate |
 |---|------|-------------|------|-----------|
 | 40 | Jeton.com | Crypto-to-SEPA service with best rates, 2000 EUR/month limit | [jeton.com](https://www.jeton.com) | 🆕 |
-| 41 | Uglycash | SEPA-friendly crypto off-ramp service | [uglycash.com](https://uglycash.com) | 🆕 |
+| 41 | Uglycash | SEPA-friendly crypto off-ramp service | uglycash.com | 💀 |
 | 42 | Bringin.xyz | Pay SEPA bills via Bitcoin Lightning, 15 EUR minimum | [bringin.xyz](https://bringin.xyz) | 🆕 |
 | 43 | Strike | Lightning payments app, accepts LN deposits, easy fiat bridge | [strike.me](https://strike.me) | 🆕 |
 
@@ -273,7 +274,7 @@ The platform covers key jurisdictions like Paraguay, Panama, Georgia, Prospera (
 | # | Bank | Country | Description | Link | Polystate |
 |---|------|---------|-------------|------|-----------|
 | 47 | Bakai.kg | Kyrgyzstan | Commercial bank with VISA Infinite card available | [bakai.kg](https://www.bakai.kg) | 🆕 |
-| 48 | ABank (formerly Aiyl Bank) | Kyrgyzstan | Bank focused on agricultural and rural microfinance, renamed 2026 | [aiylbank.kg](https://www.aiylbank.kg) | 🆕 |
+| 48 | ABank (formerly Aiyl Bank) | Kyrgyzstan | Bank focused on agricultural and rural microfinance, renamed 2026 | [abank.kg](https://abank.kg) | 🆕 |
 | 49 | Cambodian banks | Cambodia | Remote opening available, non-CRS jurisdiction | — | 🆕 |
 | 50 | Familiar / ITAU / UENO | Paraguay | Local banks requiring cedula residency | — | 🆕 |
 
@@ -308,7 +309,7 @@ The platform covers key jurisdictions like Paraguay, Panama, Georgia, Prospera (
 |---|------|-------------|------|-----------|
 | 52 | ⭐ AAVE | Non-custodial liquidity protocol for lending and borrowing crypto | [aave.com ↗](https://aave.com/r/81071D) | 🆕 |
 | 53 | Liquity | Governance-free borrowing protocol issuing LUSD against ETH collateral. V2 redeployed May 2025 after vulnerability fix | [liquity.org](https://www.liquity.org) | 🆕 |
-| 54 | Lazy Summer (formerly Summer.fi) | DeFi yield optimization protocol. Former borrow/multiply product migrated to DeFi Saver | [lazysummer.xyz](https://lazysummer.xyz) | 🆕 |
+| 54 | Lazy Summer (formerly Summer.fi) | DeFi yield optimization protocol. Former borrow/multiply product migrated to DeFi Saver | [summer.fi](https://summer.fi) | 🆕 |
 | 55 | ⭐ DefiLlama | Open-source DeFi analytics dashboard tracking TVL across all chains | [defillama.com](https://defillama.com) | 🆕 |
 | 56 | ⭐ Firefish.io | Bitcoin-collateralized loans connecting borrowers with global lenders (30% off) | [firefish.io ↗](https://firefish.io?ref=POLYSTATE) | ✅ |
 | 57 | Nexo | CeFi platform offering crypto-backed loans, earning, and exchange. Re-entered US market Feb 2026 | [nexo.com](https://nexo.com) | 🆕 |
@@ -364,8 +365,8 @@ The platform covers key jurisdictions like Paraguay, Panama, Georgia, Prospera (
 |---|------|-------------|------|-----------|
 | 72 | ⭐ Travala.com | Book hotels, flights, and activities paying with 100+ cryptos | [travala.com](https://www.travala.com) | 🆕 |
 | 73 | Destinia | Spanish travel agency accepting Bitcoin for flights and hotels | [destinia.com](https://www.destinia.com) | 🆕 |
-| 74 | Wirex Travel | Multi-currency card and app for crypto-funded travel spending | [wirex.com](https://www.wirex.com) | 🆕 |
-| 75 | XcelTrip | Decentralized travel platform booking hotels and flights with crypto | [xceltrip.com](https://www.xceltrip.com) | 🆕 |
+| 74 | Wirex Travel | Multi-currency card and app for crypto-funded travel spending | wirex.com | 💀 |
+| 75 | XcelTrip | Decentralized travel platform booking hotels and flights with crypto | xceltrip.com | 💀 |
 | 76 | ShopinBit | European online shop accepting Bitcoin and crypto for everyday products | [shopinbit.com](https://www.shopinbit.com) | 🆕 |
 | 77 | ⭐ BitRefill | Buy gift cards, eSIMs, and phone top-ups with cryptocurrency | [bitrefill.com](https://www.bitrefill.com) | 🆕 |
 | 100 | ⭐ ShopinBit Privacy Shield | Book flights with no email or phone number — proxy contact details, confirmations in-app, paid in crypto (10% fee) | [shopinbit.com](https://shopinbit.com) | 🆕 |
