@@ -35,40 +35,46 @@ jobs:
       - name: Read lychee output
         id: results
         run: |
-          BROKEN=0
-          if [ -f ./lychee/out.md ]; then
-            BROKEN=$(grep -c '\[ERR\]\|❌\|✗' ./lychee/out.md 2>/dev/null || true)
-            [ -z "$BROKEN" ] && BROKEN=0
+          # lychee exits non-zero when it found broken links (fail: false keeps
+          # the job green so we can report via an issue instead).
+          if [ "${{ steps.lychee.outputs.exit_code }}" = "0" ]; then
+            echo "broken=false" >> $GITHUB_OUTPUT
+          else
+            echo "broken=true" >> $GITHUB_OUTPUT
           fi
-          echo "broken_count=$BROKEN" >> $GITHUB_OUTPUT
 
       - name: Create issue for broken links
-        if: steps.results.outputs.broken_count != '0'
+        if: steps.results.outputs.broken == 'true'
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
           # Check if there's already an open issue for broken links
           EXISTING=$(gh issue list --label "dead-link" --state open --limit 1 --json number -q '.[0].number' 2>/dev/null || echo "")
 
-          BODY="## Weekly Link Check — $(date +%Y-%m-%d)
-
-          The automated link checker found broken or unreachable URLs in the directory.
-
-          <details>
-          <summary>Full report</summary>
-
-          $(cat ./lychee/out.md 2>/dev/null || echo 'No detailed output available.')
-
-          </details>
-
-          ---
-          *This issue was created automatically by the weekly link checker.*"
+          # Build the body in a file so the report is inserted verbatim
+          # (no shell expansion) and without block-scalar indentation, which
+          # would otherwise render the whole report as a code block.
+          {
+            echo "## Weekly Link Check — $(date +%Y-%m-%d)"
+            echo
+            echo "The automated link checker found broken or unreachable URLs in the directory."
+            echo
+            echo "<details>"
+            echo "<summary>Full report</summary>"
+            echo
+            cat ./lychee/out.md 2>/dev/null || echo "No detailed output available."
+            echo
+            echo "</details>"
+            echo
+            echo "---"
+            echo "*This issue was created automatically by the weekly link checker.*"
+          } > /tmp/link-check-body.md
 
           if [ -n "$EXISTING" ]; then
-            gh issue comment "$EXISTING" --body "$BODY"
+            gh issue comment "$EXISTING" --body-file /tmp/link-check-body.md
           else
             gh issue create \
               --title "Broken links detected — $(date +%Y-%m-%d)" \
-              --body "$BODY" \
+              --body-file /tmp/link-check-body.md \
               --label "dead-link,maintenance"
           fi
